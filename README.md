@@ -7,7 +7,10 @@
   alteração
 )
 
-um teste de git
+um
+ teste 
+ de 
+ git
 gerenciando conflitos
 
 (
