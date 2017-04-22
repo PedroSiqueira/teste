@@ -8,10 +8,10 @@
 )
 
 um
- teste 
- de 
+ teste
+ de
  git
-gerenciando conflitos
+gerenciando PedroSiqueira1 conflitos
 
 (
   PedroSiqueira
