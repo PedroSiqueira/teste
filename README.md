@@ -1,8 +1,21 @@
 # teste
 
-mrpeter fazendo uma alteração
+(
+  mrpeter
+  fazendo
+  uma
+  alteração
+)
 
 um
- teste 
+ teste
+ de
  git
-gerenciando conflitos
+gerenciando PedroSiqueira1 conflitos
+
+(
+  PedroSiqueira
+  fazendo
+  uma
+  alteração
+)
